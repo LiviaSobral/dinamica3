@@ -1,6 +1,8 @@
 function comprar(item){
   console.log("Você comprou " + item)
 }
+
+comprar("Pão")
 const pessoa ={
   nome:"jake",
    apelido:["jakezinho","ja","killer"]
