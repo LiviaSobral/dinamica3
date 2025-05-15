@@ -1,1 +1,5 @@
 to com fome
+
+comida estragou
+
+fome2
